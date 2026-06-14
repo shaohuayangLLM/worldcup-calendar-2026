@@ -1,0 +1,1746 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.maak-agenda.nl
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-MICROSOFT-CALSCALE:GREGORIAN
+X-WR-CALNAME:2026 世界杯 ⭐ 法英巴阿葡
+X-WR-CALDESC:2026 FIFA World Cup · 关注队(法/英/巴/阿/葡)加⭐高亮 · 比分与淘汰赛对阵自动更新 · 数据源 fixtur.es
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:mOFqJ6RQXjVW3JFAOVldmhQMb8qJTv1bsHa8VPVA@maak-agenda.nl
+DTSTART:20260611T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260611T204500Z
+LOCATION:Estadio Banorte
+SUMMARY:Mexico - South Africa (2-0)
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080638Z
+LAST-MODIFIED:20260612T181544Z
+END:VEVENT
+BEGIN:VEVENT
+UID:RDBxlX2YMERWy3FyEMpWe6vTt1WjxYFOieW9XdN6@maak-agenda.nl
+DTSTART:20260612T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260612T034500Z
+LOCATION:Estadio Akron
+SUMMARY:South Korea - Czech Republic (2-1)
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080638Z
+LAST-MODIFIED:20260612T181544Z
+END:VEVENT
+BEGIN:VEVENT
+UID:OwD8zm7YKYLnvXGg0ePdkbDuMVuhmLmKcbkFU6bT@maak-agenda.nl
+DTSTART:20260612T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260612T204500Z
+LOCATION:BMO Field
+SUMMARY:Canada - Bosnia and Herzegovina
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080638Z
+LAST-MODIFIED:20260610T151023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:xr8edUoKA44ob1E9S0YtIoX8ObRFdbJQgOg12eWk@maak-agenda.nl
+DTSTART:20260613T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260613T204500Z
+LOCATION:Levi's
+SUMMARY:Qatar - Switzerland
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080638Z
+LAST-MODIFIED:20260610T151023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:8nBlPBPgW7QJQo2hVLVSdPZxKMpkIEKARY33pqhE@maak-agenda.nl
+DTSTART:20260613T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260613T234500Z
+LOCATION:MetLife
+SUMMARY:⭐ Brazil - Morocco
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080638Z
+LAST-MODIFIED:20260610T151023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:LfSskSi98kOFQgbPjm92MnyyGFEbzYbbqKarztHt@maak-agenda.nl
+DTSTART:20260613T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260613T024500Z
+LOCATION:SoFi
+SUMMARY:United States - Paraguay
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080638Z
+LAST-MODIFIED:20260610T151023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:23TfC8nBygtf32KcsmmbxYgqNgfPiizZg7HcSsm6@maak-agenda.nl
+DTSTART:20260614T040000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260614T054500Z
+LOCATION:BC Place
+SUMMARY:Australia - Türkiye
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080638Z
+LAST-MODIFIED:20260610T151023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:IRtm9jXZUkZIsx6gYLfkGrLbpJzutRqGPdL7ZYSb@maak-agenda.nl
+DTSTART:20260614T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260614T024500Z
+LOCATION:Gillette
+SUMMARY:Haiti - Scotland
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080638Z
+LAST-MODIFIED:20260610T151023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Igek9LQnpAayuTQ6869DN6wJplFBSTTx38s1XWFK@maak-agenda.nl
+DTSTART:20260614T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260614T184500Z
+LOCATION:NRG
+SUMMARY:Germany - Curaçao
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080638Z
+LAST-MODIFIED:20260610T151023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:TEa76Ylhy44s3rFJwgb111DU8TRC7goolb7NjZ3S@maak-agenda.nl
+DTSTART:20260614T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260614T214500Z
+LOCATION:AT&T
+SUMMARY:Netherlands - Japan
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080638Z
+LAST-MODIFIED:20260610T151023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:3q6WeCkVG52BIxDcKUEMgUs1gKMdgs0c4slEgAYL@maak-agenda.nl
+DTSTART:20260614T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260615T004500Z
+LOCATION:Lincoln Financial Field
+SUMMARY:Ivory Coast - Ecuador
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080638Z
+LAST-MODIFIED:20260610T151023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:IYbzCZQLSUPF1j3lMzM2H77t7z7TT4opN75j6EWm@maak-agenda.nl
+DTSTART:20260615T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260615T034500Z
+LOCATION:Estadio BBVA
+SUMMARY:Sweden - Tunisia
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Mymle61GWcKLkRdYV7SbJz9IsASGlP7CMs8l0TM1@maak-agenda.nl
+DTSTART:20260615T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260615T204500Z
+LOCATION:Lumen Field
+SUMMARY:Belgium - Egypt
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:jV7bpFNtFwadwW7bHOChLvqHpiTY6a3GQhqi7RuU@maak-agenda.nl
+DTSTART:20260615T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260615T174500Z
+LOCATION:Mercedes-Benz
+SUMMARY:Spain - Cape Verde
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:9EgENhHUjPlFISucvBZFSBvv39kmS3dcN3jCTtt0@maak-agenda.nl
+DTSTART:20260615T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260615T234500Z
+LOCATION:Hard Rock
+SUMMARY:Saudi Arabia - Uruguay
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:RkVYL2lCWpG9cjenMitfnYwU2IuVjiBbOObdo8Mw@maak-agenda.nl
+DTSTART:20260616T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260616T024500Z
+LOCATION:SoFi
+SUMMARY:Iran - New Zealand
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:jnLW9nS1af6YI08Vm6N9IRGkFtMTv9uSQru3wzl1@maak-agenda.nl
+DTSTART:20260616T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260616T204500Z
+LOCATION:MetLife
+SUMMARY:⭐ France - Senegal
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:WuY9fo94OLAsF24kuEzNSAAedk87vunyDVnv0DAb@maak-agenda.nl
+DTSTART:20260616T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260616T234500Z
+LOCATION:Gillette
+SUMMARY:Iraq - Norway
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:AbzliV6yZo0l7ZCToTZffB1ErnPWDLpT7dLHUOoq@maak-agenda.nl
+DTSTART:20260617T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260617T024500Z
+LOCATION:GEHA Field at Arrowhead
+SUMMARY:⭐ Argentina - Algeria
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5sywdXTvTE6lUslQS9sEL6m5U33rPR4tq0vtVc9N@maak-agenda.nl
+DTSTART:20260617T040000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260617T054500Z
+LOCATION:Levi's
+SUMMARY:Austria - Jordan
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f0I6KkipublbqQrZkl3ZjIhof5xvgTwoy6jVRC0d@maak-agenda.nl
+DTSTART:20260617T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260617T184500Z
+LOCATION:NRG
+SUMMARY:⭐ Portugal - DR Congo
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:EoqPGrar3rRqtX1jz2dcloO7hUd2oM3jHbfP2Ybr@maak-agenda.nl
+DTSTART:20260617T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260617T214500Z
+LOCATION:AT&T
+SUMMARY:⭐ England - Croatia
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:c5xKbGrrJqgqw7AC4iWbzNqXEqt4pED7XlaDgbNe@maak-agenda.nl
+DTSTART:20260618T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260618T174500Z
+LOCATION:Mercedes-Benz
+SUMMARY:Czech Republic - South Africa
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:NBVc2JcITaGXbu1epzMVk0kGMAMpoOaW6loRmzu6@maak-agenda.nl
+DTSTART:20260618T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260618T204500Z
+LOCATION:SoFi
+SUMMARY:Switzerland - Bosnia and Herzegovina
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ao2EQAC2BG9ZlxDHFQfGwVxzd2FtoyUpnTTLjtlf@maak-agenda.nl
+DTSTART:20260618T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260618T234500Z
+LOCATION:BC Place
+SUMMARY:Canada - Qatar
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:3NGz2V1OHyJ7Mz0VxGC5zSFsXbeAmh4WV5ZO4wuO@maak-agenda.nl
+DTSTART:20260618T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260618T034500Z
+LOCATION:Estadio Banorte
+SUMMARY:Uzbekistan - Colombia
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Mu2EQgWSkrwOTj9OHhvAELdtstdkCn25htRPhyU7@maak-agenda.nl
+DTSTART:20260617T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260618T004500Z
+LOCATION:BMO Field
+SUMMARY:Ghana - Panama
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:VfN2b6MiLMQ0MhmdZpAy3c4LbxDDVk48OlHID98c@maak-agenda.nl
+DTSTART:20260619T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260619T024500Z
+LOCATION:Estadio Akron
+SUMMARY:Mexico - South Korea
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ZKUbJ1Zm12kh47UFkMZ162ood94HiLDCpBFxIMMs@maak-agenda.nl
+DTSTART:20260619T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260619T234500Z
+LOCATION:Gillette
+SUMMARY:Scotland - Morocco
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:RyvLtSo6DwRWAGAbdWeeSE4UqXWCvNG5dSgf5j8O@maak-agenda.nl
+DTSTART:20260619T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260619T204500Z
+LOCATION:Lumen Field
+SUMMARY:United States - Australia
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:GOImNSMySdHNC5gVOuUEiFlVKO1na973oUGF1HGX@maak-agenda.nl
+DTSTART:20260620T003000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260620T021500Z
+LOCATION:Lincoln Financial Field
+SUMMARY:⭐ Brazil - Haiti
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:U3ynluPMXGG2yBvbwR2M0kyKwWOx6unXVUVsuAqj@maak-agenda.nl
+DTSTART:20260620T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260620T044500Z
+LOCATION:Levi's
+SUMMARY:Türkiye - Paraguay
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:9zWzc3zsOUf9oi8z2qZZEXHEQ3jbalYYgoG8ttmY@maak-agenda.nl
+DTSTART:20260620T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260620T214500Z
+LOCATION:BMO Field
+SUMMARY:Germany - Ivory Coast
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:LeMLB9yWvpTzs2Aze1WKeF3Yi2gevIeJBRfqDQFm@maak-agenda.nl
+DTSTART:20260620T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260620T184500Z
+LOCATION:NRG
+SUMMARY:Netherlands - Sweden
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:rfy32mj85FvI9B1np6toz7gDSN2xWrqqZQOkTX42@maak-agenda.nl
+DTSTART:20260621T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260621T014500Z
+LOCATION:GEHA Field at Arrowhead
+SUMMARY:Ecuador - Curaçao
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:8zqA4X0hpLOAOewNHlgPKhMItB55vyisDwiUKqit@maak-agenda.nl
+DTSTART:20260621T040000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260621T054500Z
+LOCATION:Estadio BBVA
+SUMMARY:Tunisia - Japan
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:TwHEXuYUmCnuCQguSl69JXojeyO1ggeCHFkYb4w4@maak-agenda.nl
+DTSTART:20260621T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260621T204500Z
+LOCATION:SoFi
+SUMMARY:Belgium - Iran
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:99dkGUcq7iTVyqYGFI4dxt4UHgfpLHjbqzlu8KWV@maak-agenda.nl
+DTSTART:20260621T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260621T174500Z
+LOCATION:Mercedes-Benz
+SUMMARY:Spain - Saudi Arabia
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:jgvVE8R8GfNdFZ9qKi8CuzDr2iC29yx6ou0jor77@maak-agenda.nl
+DTSTART:20260621T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260621T234500Z
+LOCATION:Hard Rock
+SUMMARY:Uruguay - Cape Verde
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:X6Jxf5wNWKXpxziJMmygotUjXpK9BlbtrfpEuB4m@maak-agenda.nl
+DTSTART:20260622T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260622T024500Z
+LOCATION:BC Place
+SUMMARY:New Zealand - Egypt
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:7agkxV0kkhqTz4ffZrVpL41c7mNzfb5RysX2j0iS@maak-agenda.nl
+DTSTART:20260622T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260622T224500Z
+LOCATION:Lincoln Financial Field
+SUMMARY:⭐ France - Iraq
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:xysKauHcIyYoB5ysNA1S5LuloEh8H2d5jCgUcjkC@maak-agenda.nl
+DTSTART:20260622T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260622T184500Z
+LOCATION:AT&T
+SUMMARY:⭐ Argentina - Austria
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:FfXse7yMaVnZXckWatSCsLVJGr6JTXwUCm2t5Jhi@maak-agenda.nl
+DTSTART:20260623T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260623T014500Z
+LOCATION:MetLife
+SUMMARY:Norway - Senegal
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:nyjLJHQuKYT5aX1l7GlS3griA5a1dHoqhBimloHj@maak-agenda.nl
+DTSTART:20260623T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260623T044500Z
+LOCATION:Levi's
+SUMMARY:Jordan - Algeria
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Zusmo6RDaTs0Z9nziAcPkjVtzi7n9LyMrb6YGpmL@maak-agenda.nl
+DTSTART:20260623T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260623T184500Z
+LOCATION:NRG
+SUMMARY:⭐ Portugal - Uzbekistan
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ubHInmcgdsyGKd6yhws9HNx159J1D5Hgm8wHvlRu@maak-agenda.nl
+DTSTART:20260623T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260623T214500Z
+LOCATION:Gillette
+SUMMARY:⭐ England - Ghana
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:snw8PLRz7t57aMrUDOxB5SS63AMeWZhmvwRr9puF@maak-agenda.nl
+DTSTART:20260624T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260624T204500Z
+LOCATION:BC Place
+SUMMARY:Switzerland - Canada
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:P4xzOVH1F73wtKDRheCllsS8UToNjwrCFCharVxo@maak-agenda.nl
+DTSTART:20260624T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260624T204500Z
+LOCATION:Lumen Field
+SUMMARY:Bosnia and Herzegovina - Qatar
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Ji786X0gWcCsaWYgDHb9nbauNNzak9CB6qZ1lS67@maak-agenda.nl
+DTSTART:20260624T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260624T234500Z
+LOCATION:Mercedes-Benz
+SUMMARY:Morocco - Haiti
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080639Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:4HO0sM0oEw1n7OVmSD0EDTV3v6XSpEGOl8Rddv1w@maak-agenda.nl
+DTSTART:20260624T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260624T234500Z
+LOCATION:Hard Rock
+SUMMARY:⭐ Scotland - Brazil
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080640Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:3vniaAX0l9gS0oHih3OnAcct25m9yIR9iAp8jMPT@maak-agenda.nl
+DTSTART:20260624T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260624T034500Z
+LOCATION:Estadio Akron
+SUMMARY:Colombia - DR Congo
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080640Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:3fQTpP1S8t31W1f4kmvtSAZPNXoZ8jMRMG6DNhFZ@maak-agenda.nl
+DTSTART:20260623T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260624T004500Z
+LOCATION:BMO Field
+SUMMARY:Panama - Croatia
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080640Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:kVg66x36dJuVWZqf9Xs0XbUr7RXRi6EgRBbQsLrJ@maak-agenda.nl
+DTSTART:20260625T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260625T024500Z
+LOCATION:Estadio BBVA
+SUMMARY:South Africa - South Korea
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080640Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:nBUtASxQRRG89quOODUbyMBeCZnmexsJgCF6jRWF@maak-agenda.nl
+DTSTART:20260625T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260625T024500Z
+LOCATION:Estadio Banorte
+SUMMARY:Czech Republic - Mexico
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080640Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:8EmBsAkc4aYop8khej4fVBeT7B6gAnM4tfiPleEy@maak-agenda.nl
+DTSTART:20260625T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260625T214500Z
+LOCATION:Lincoln Financial Field
+SUMMARY:Curaçao - Ivory Coast
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080640Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:sSUFq6FvkThV4BPN8jIAzBVGtYWUnwBMWQPA1jBR@maak-agenda.nl
+DTSTART:20260625T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260625T214500Z
+LOCATION:MetLife
+SUMMARY:Ecuador - Germany
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080640Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:a7CtwKuTsRgCCcybIDBpfU32FBcTkKJm9ChVbOKD@maak-agenda.nl
+DTSTART:20260626T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260626T034500Z
+LOCATION:Levi's
+SUMMARY:Paraguay - Australia
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080640Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Uyf5eiNbtS4K4m51paDiB87xnN1N4soCp8N7UBEM@maak-agenda.nl
+DTSTART:20260626T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260626T034500Z
+LOCATION:SoFi
+SUMMARY:Türkiye - United States
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080640Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bPWCIRs1hfIbloFMcAoZg0boK4fpptHYfxGzUVke@maak-agenda.nl
+DTSTART:20260625T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260626T004500Z
+LOCATION:AT&T
+SUMMARY:Japan - Sweden
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080640Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:CVa5JZb836RYR7XvQZu94RnU739TZSe3XUZ4yXDq@maak-agenda.nl
+DTSTART:20260625T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260626T004500Z
+LOCATION:GEHA Field at Arrowhead
+SUMMARY:Tunisia - Netherlands
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080640Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Kq5pHdb6mxXm7NcBOkw7f0kgCYj1oCLfGPkUzl2N@maak-agenda.nl
+DTSTART:20260626T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260626T204500Z
+LOCATION:Gillette
+SUMMARY:⭐ Norway - France
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080640Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:YKppkO2pIYFdP3MdlqCbC8yRd6PmuN6PiBbjpDry@maak-agenda.nl
+DTSTART:20260626T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260626T204500Z
+LOCATION:BMO Field
+SUMMARY:Senegal - Iraq
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080640Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:3RZA375Kx7FZsZfID1jnvPytRrUNdTpytJ1jIDrU@maak-agenda.nl
+DTSTART:20260627T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260627T044500Z
+LOCATION:Lumen Field
+SUMMARY:Egypt - Iran
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080640Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:HELCPOuJiiwVOaHYaTTI4yqCFK6ftdxnQ9d471Sk@maak-agenda.nl
+DTSTART:20260627T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260627T044500Z
+LOCATION:BC Place
+SUMMARY:New Zealand - Belgium
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080640Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:LOKJ6t6aNyluLgdRBP1cQYjNpJbcuCAM1YXsUXwX@maak-agenda.nl
+DTSTART:20260627T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260627T014500Z
+LOCATION:NRG
+SUMMARY:Cape Verde - Saudi Arabia
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080640Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Cp9hF3YnTTE1RefoY2nwFqy13sV2mVK6wtd8L6O7@maak-agenda.nl
+DTSTART:20260627T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260627T014500Z
+LOCATION:Estadio Akron
+SUMMARY:Uruguay - Spain
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080640Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:oR7PM58x2eX76oLG7vQNCKS14cZVUyxTpuis7KQn@maak-agenda.nl
+DTSTART:20260627T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260627T224500Z
+LOCATION:Lincoln Financial Field
+SUMMARY:Croatia - Ghana
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080640Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:I5t2mrnCSl04FjhKa5Qoe53BBoYOobWrW1PfExoD@maak-agenda.nl
+DTSTART:20260627T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260627T224500Z
+LOCATION:MetLife
+SUMMARY:⭐ Panama - England
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080640Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:P6B9fFcHE1M3bmrV4OUenvfWUUFKmWw7zUM5nVVr@maak-agenda.nl
+DTSTART:20260628T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260628T034500Z
+LOCATION:GEHA Field at Arrowhead
+SUMMARY:Algeria - Austria
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080640Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5g2fQHbSB87bbqRxRtVAVEbH1jbvBjwgCWmNxBov@maak-agenda.nl
+DTSTART:20260628T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260628T034500Z
+LOCATION:AT&T
+SUMMARY:⭐ Jordan - Argentina
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080640Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:U4QbuSGST0dPbVqvd4vkR6lsbhijKdcKZ21soAzC@maak-agenda.nl
+DTSTART:20260627T233000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260628T011500Z
+LOCATION:Hard Rock
+SUMMARY:⭐ Colombia - Portugal
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080640Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:nApQNCe2SmY6zkCHyAAWGGcf3RtkBFvEFoY2kUqX@maak-agenda.nl
+DTSTART:20260627T233000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260628T011500Z
+LOCATION:Mercedes-Benz
+SUMMARY:DR Congo - Uzbekistan
+CLASS:PUBLIC
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
+ h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
+ s://buymeacoffee.com/fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20251210T080640Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:fU8PQZQYk1gHBassBSfEBBvKXZuKYyVEo3JVAZR8@maak-agenda.nl
+DTSTART:20260628T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260628T204500Z
+LOCATION:SoFi
+SUMMARY:Round of 32: 2A vs 2B
+CLASS:PUBLIC
+DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
+ fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20260610T151024Z
+LAST-MODIFIED:20260610T151024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:rXU6d91LHd25BTRkxjIvkTxPybdOvrkRqLuGg2o2@maak-agenda.nl
+DTSTART:20260629T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260629T184500Z
+LOCATION:NRG
+SUMMARY:Round of 32: 1C vs 2F
+CLASS:PUBLIC
+DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
+ fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20260610T151025Z
+LAST-MODIFIED:20260610T151025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:slX3UDMTokv2Ffi918ncIAOgq4jv1th2uWpQXEB4@maak-agenda.nl
+DTSTART:20260629T203000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260629T221500Z
+LOCATION:Gillette
+SUMMARY:Round of 32: 1E vs 3rd A/B/C/D/F
+CLASS:PUBLIC
+DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
+ fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20260610T151025Z
+LAST-MODIFIED:20260610T151558Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5U6ajn4koNpMugtFIYmalhVESurjMPNOCLfYzv2D@maak-agenda.nl
+DTSTART:20260630T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260630T024500Z
+LOCATION:Estadio BBVA
+SUMMARY:Round of 32: 1F vs 2C
+CLASS:PUBLIC
+DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
+ fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20260610T151025Z
+LAST-MODIFIED:20260610T151025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:BniXdjK7a6IXRS4fa71PiJnl1OZuxUa5vkDdd521@maak-agenda.nl
+DTSTART:20260630T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260630T184500Z
+LOCATION:AT&T
+SUMMARY:Round of 32: 2E vs 2I
+CLASS:PUBLIC
+DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
+ fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20260610T151025Z
+LAST-MODIFIED:20260610T151025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:MojHXuRhg80YP4KOOATZlmyz24WOr7JAJ5FJOtoy@maak-agenda.nl
+DTSTART:20260630T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260630T224500Z
+LOCATION:MetLife
+SUMMARY:Round of 32: 1I vs 3rd C/D/F/G/H
+CLASS:PUBLIC
+DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
+ fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20260610T151025Z
+LAST-MODIFIED:20260610T151603Z
+END:VEVENT
+BEGIN:VEVENT
+UID:JEIkohEaM4anOz2sZaFL0pHMFHMYNOsmmHDIsaUw@maak-agenda.nl
+DTSTART:20260701T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260701T024500Z
+LOCATION:Estadio Banorte
+SUMMARY:Round of 32: 1A vs 3rd C/E/F/H/I
+CLASS:PUBLIC
+DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
+ fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20260610T151025Z
+LAST-MODIFIED:20260610T151606Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6kpivlrqwQ0x2wVi4GkoB8JGNpXuYxyWSxzPfeDK@maak-agenda.nl
+DTSTART:20260701T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260701T174500Z
+LOCATION:Mercedes-Benz
+SUMMARY:Round of 32: 1L vs 3rd E/H/I/J/K
+CLASS:PUBLIC
+DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
+ fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20260610T151025Z
+LAST-MODIFIED:20260610T151610Z
+END:VEVENT
+BEGIN:VEVENT
+UID:cTEKu0s42tUy26jS3tfmXexw1JAHshrvsjP6hzlE@maak-agenda.nl
+DTSTART:20260701T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260701T214500Z
+LOCATION:Lumen Field
+SUMMARY:Round of 32: 1G vs 3rd A/E/H/I/J
+CLASS:PUBLIC
+DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
+ fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20260610T151025Z
+LAST-MODIFIED:20260610T151613Z
+END:VEVENT
+BEGIN:VEVENT
+UID:VXiVQXApIsnATcLzhq6NV599a0ReR0pVRgpYMDqe@maak-agenda.nl
+DTSTART:20260702T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260702T014500Z
+LOCATION:Levi's
+SUMMARY:Round of 32: 1D vs 3rd B/E/F/I/J
+CLASS:PUBLIC
+DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
+ fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20260610T151025Z
+LAST-MODIFIED:20260610T151617Z
+END:VEVENT
+BEGIN:VEVENT
+UID:s6KU8RZf9FQUESmVEj8wcBRm4wr7f79n5tdyE84f@maak-agenda.nl
+DTSTART:20260702T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260702T204500Z
+LOCATION:SoFi
+SUMMARY:Round of 32: 1H vs 2J
+CLASS:PUBLIC
+DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
+ fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20260610T151025Z
+LAST-MODIFIED:20260610T151025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mittYLW2UHzTz2bNordMU42gOBQyg7QwFJNMgK7Q@maak-agenda.nl
+DTSTART:20260702T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260703T004500Z
+LOCATION:BMO Field
+SUMMARY:Round of 32: 2K vs 2L
+CLASS:PUBLIC
+DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
+ fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20260610T151025Z
+LAST-MODIFIED:20260610T151025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:LJTZT5atnmVo6WrWmzugEqLMxquGmKEnaI5hTd3I@maak-agenda.nl
+DTSTART:20260703T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260703T044500Z
+LOCATION:BC Place
+SUMMARY:Round of 32: 1B vs 3rd E/F/G/I/J
+CLASS:PUBLIC
+DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
+ fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20260610T151025Z
+LAST-MODIFIED:20260610T151622Z
+END:VEVENT
+BEGIN:VEVENT
+UID:g2IcSUuXTRKuj5NBbaimVxHPcxzRaicEiLxBZChf@maak-agenda.nl
+DTSTART:20260703T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260703T194500Z
+LOCATION:AT&T
+SUMMARY:Round of 32: 2D vs 2G
+CLASS:PUBLIC
+DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
+ fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20260610T151025Z
+LAST-MODIFIED:20260610T151025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Uy1taecaFBWJZZQj6udh2EQddqMYamWC0LQqYH0p@maak-agenda.nl
+DTSTART:20260703T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260703T234500Z
+LOCATION:Hard Rock
+SUMMARY:Round of 32: 1J vs 2H
+CLASS:PUBLIC
+DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
+ fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20260610T151025Z
+LAST-MODIFIED:20260610T151025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:uvR0l9uHlVFc5rnfHWAQTKdQz7WJsCQrDxa3XGCw@maak-agenda.nl
+DTSTART:20260704T013000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260704T031500Z
+LOCATION:GEHA Field at Arrowhead
+SUMMARY:Round of 32: 1K vs 3rd D/E/I/J/L
+CLASS:PUBLIC
+DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
+ fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20260610T151025Z
+LAST-MODIFIED:20260610T151627Z
+END:VEVENT
+BEGIN:VEVENT
+UID:XJ3BCdqSw9FouFawpkmKxE6s0gdZ92WisyHXTSmJ@maak-agenda.nl
+DTSTART:20260704T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260704T184500Z
+LOCATION:NRG
+SUMMARY:Round of 16: W1 vs W3
+CLASS:PUBLIC
+DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
+ fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20260610T151025Z
+LAST-MODIFIED:20260610T151025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:q1i9RnKI6YcFK6UEGdQWKgN9tXTaCTjVaruQzODc@maak-agenda.nl
+DTSTART:20260704T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260704T224500Z
+LOCATION:Lincoln Financial Field
+SUMMARY:Round of 16: W2 vs W5
+CLASS:PUBLIC
+DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
+ fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20260610T151025Z
+LAST-MODIFIED:20260610T151025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ydKNjGCHUPuMiML47vTpenRSAJRUqKvBZ0fqKYLG@maak-agenda.nl
+DTSTART:20260705T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260705T214500Z
+LOCATION:MetLife
+SUMMARY:Round of 16: W4 vs W6
+CLASS:PUBLIC
+DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
+ fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20260610T151025Z
+LAST-MODIFIED:20260610T151025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Ry0dzRr9UL16jQnWfRloHXz1H7j2K5X16oKtFDMW@maak-agenda.nl
+DTSTART:20260706T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260706T014500Z
+LOCATION:Estadio Banorte
+SUMMARY:Round of 16: W7 vs W8
+CLASS:PUBLIC
+DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
+ fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20260610T151025Z
+LAST-MODIFIED:20260610T151025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:nEQ7fCwbr57xCQlo5TlFFgncdRVu8mty4PHKcM71@maak-agenda.nl
+DTSTART:20260706T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260706T204500Z
+LOCATION:AT&T
+SUMMARY:Round of 16: W11 vs W12
+CLASS:PUBLIC
+DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
+ fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20260610T151025Z
+LAST-MODIFIED:20260610T151025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:WB4Ezy7h2LgCkuFhNa4yJcR0pTjNBcXoZOA81gVH@maak-agenda.nl
+DTSTART:20260707T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260707T014500Z
+LOCATION:Lumen Field
+SUMMARY:Round of 16: W9 vs W10
+CLASS:PUBLIC
+DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
+ fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20260610T151025Z
+LAST-MODIFIED:20260610T151025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ttBJsLKnH2YwsUhkyvw0qpWLxit0RtRHL4GJWQ7m@maak-agenda.nl
+DTSTART:20260707T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260707T174500Z
+LOCATION:Mercedes-Benz
+SUMMARY:Round of 16: W14 vs W16
+CLASS:PUBLIC
+DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
+ fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20260610T151025Z
+LAST-MODIFIED:20260610T151025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:R5zAlM0T64uVzCDEhKvZ7zGmmINPFRBabbGnvfoY@maak-agenda.nl
+DTSTART:20260707T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260707T214500Z
+LOCATION:BC Place
+SUMMARY:Round of 16: W13 vs W15
+CLASS:PUBLIC
+DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
+ fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20260610T151025Z
+LAST-MODIFIED:20260610T151025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:enCPcA5xqLQnq0uFTttpz80J0GVZPF8K9vjhECRN@maak-agenda.nl
+DTSTART:20260709T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260709T214500Z
+LOCATION:Gillette
+SUMMARY:Quarter-final: W1 vs W2
+CLASS:PUBLIC
+DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
+ fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20260610T151025Z
+LAST-MODIFIED:20260610T151025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:McXWCQb4lKRXdtD0W9LXyVOLi9H129zvaamTQRfx@maak-agenda.nl
+DTSTART:20260710T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260710T204500Z
+LOCATION:SoFi
+SUMMARY:Quarter-final: W5 vs W6
+CLASS:PUBLIC
+DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
+ fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20260610T151025Z
+LAST-MODIFIED:20260610T151025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Jv2ZbEf12KOZv43MrI7j3bXuyUVBaRRGzX3LJl8J@maak-agenda.nl
+DTSTART:20260711T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260711T224500Z
+LOCATION:Hard Rock
+SUMMARY:Quarter-final: W3 vs W4
+CLASS:PUBLIC
+DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
+ fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20260610T151025Z
+LAST-MODIFIED:20260610T151025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:svXDxl318PDXH8u1C9b0VsBqv98q4z1IQDTjCzZc@maak-agenda.nl
+DTSTART:20260712T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260712T024500Z
+LOCATION:GEHA Field at Arrowhead
+SUMMARY:Quarter-final: W7 vs W8
+CLASS:PUBLIC
+DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
+ fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20260610T151025Z
+LAST-MODIFIED:20260610T151025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:khCwDUFr0Va746KA9TGFnQUlb6W7Y14DhrexnMaN@maak-agenda.nl
+DTSTART:20260714T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260714T204500Z
+LOCATION:AT&T
+SUMMARY:Semi-final: W1 vs W2
+CLASS:PUBLIC
+DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
+ fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20260610T151025Z
+LAST-MODIFIED:20260610T151025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:XWgHbVCf7AsOfPWtP7kNSAxMPenXuIJaaOyGydvZ@maak-agenda.nl
+DTSTART:20260715T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260715T204500Z
+LOCATION:Mercedes-Benz
+SUMMARY:Semi-final: W3 vs W4
+CLASS:PUBLIC
+DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
+ fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20260610T151025Z
+LAST-MODIFIED:20260610T151025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:BEUxKWlgfPaMvtMBbR0WrCDPCTnFrhFCEf2K9bmI@maak-agenda.nl
+DTSTART:20260718T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260718T224500Z
+LOCATION:Hard Rock
+SUMMARY:World Cup 3rd place match
+CLASS:PUBLIC
+DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
+ fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20260610T151025Z
+LAST-MODIFIED:20260610T151409Z
+END:VEVENT
+BEGIN:VEVENT
+UID:QuSFOtmpOt62HOsBvyTEHyryuPY7Klui4pDA8YW1@maak-agenda.nl
+DTSTART:20260719T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+DTEND:20260719T204500Z
+LOCATION:MetLife
+SUMMARY:World Cup Final
+CLASS:PUBLIC
+DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
+ fixtures
+DTSTAMP:20260614T131006Z
+CREATED:20260610T185706Z
+LAST-MODIFIED:20260610T185706Z
+END:VEVENT
+END:VCALENDAR

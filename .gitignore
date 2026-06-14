@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+*.log
+
+# 内部文档/脚本，不进公开仓库
+需求定稿-v0.1.md
+实现进度与交接.md
+部署上线.sh
