@@ -27,6 +27,8 @@ check("队名中文（巴西/法国/墨西哥）", ics.includes("巴西") && ics
 check("轮次中文（32强/16强/半决赛）", ics.includes("32强") && ics.includes("16强") && ics.includes("半决赛"));
 check("占位中文（组第/胜者）", ics.includes("组第") && ics.includes("胜者"));
 check("无英文队名残留", !/SUMMARY:[^\r\n]*(Brazil|France|Mexico|England|Round of)/.test(ics));
+check("球场中文化+城市（含 球场·城市）", /LOCATION:[^\r\n]*球场·(纽约|墨西哥城|达拉斯|洛杉矶)/.test(ics));
+check("16 个球场全部命中（无残留英文球场）", !/LOCATION:(AT&T|SoFi|MetLife|NRG|Estadio|BMO|Levi)/.test(ics));
 
 console.log("【football-data 补比分】");
 // 模拟 football-data 索引：荷兰 2-2 日本（fixtur.es 该场当前无比分）

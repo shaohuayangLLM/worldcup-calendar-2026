@@ -37,6 +37,17 @@ const TEAM = {
 };
 const TEAM_KEYS = Object.keys(TEAM).sort((a, b) => b.length - a.length);
 
+// 16 球场 → 中文球场名·举办城市
+const VENUE = {
+  "AT&T": "AT&T 球场·达拉斯", "SoFi": "SoFi 球场·洛杉矶", "MetLife": "大都会人寿球场·纽约",
+  "Mercedes-Benz": "奔驰球场·亚特兰大", "NRG": "NRG 球场·休斯顿", "Hard Rock": "硬石球场·迈阿密",
+  "Gillette": "吉列球场·波士顿", "BC Place": "BC 球场·温哥华", "Lumen Field": "流明球场·西雅图",
+  "Lincoln Financial Field": "林肯金融球场·费城", "Levi's": "李维斯球场·旧金山",
+  "GEHA Field at Arrowhead": "箭头球场·堪萨斯城", "BMO Field": "BMO 球场·多伦多",
+  "Estadio Banorte": "阿兹特克球场·墨西哥城", "Estadio BBVA": "BBVA 球场·蒙特雷",
+  "Estadio Akron": "阿克隆球场·瓜达拉哈拉",
+};
+
 // 从 football-data 响应建比分索引：key=排序后的队名对，value={home,away,fh,fa}
 export function buildScoreIndex(fbJson) {
   const idx = new Map();
@@ -92,6 +103,9 @@ export function transform(src, scoreIdx = null) {
       line = "X-WR-CALNAME:" + CAL_NAME;
     } else if (line.startsWith("X-WR-CALDESC:")) {
       line = "X-WR-CALDESC:" + CAL_DESC;
+    } else if (line.startsWith("LOCATION:")) {
+      const loc = line.slice("LOCATION:".length).trim();
+      if (VENUE[loc]) line = "LOCATION:" + VENUE[loc];
     }
     out.push(line);
   }
