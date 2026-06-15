@@ -6,11 +6,11 @@
 
 **订阅地址**（webcal，自动更新）：
 ```
-webcal://raw.githubusercontent.com/shaohuayangLLM/worldcup-calendar-2026/main/worldcup.ics
+webcal://shaohuayangllm.github.io/worldcup-calendar-2026/worldcup.ics
 ```
 HTTPS 形式（同一份）：
 ```
-https://raw.githubusercontent.com/shaohuayangLLM/worldcup-calendar-2026/main/worldcup.ics
+https://shaohuayangllm.github.io/worldcup-calendar-2026/worldcup.ics
 ```
 
 ### Mac
