@@ -5,7 +5,7 @@ METHOD:PUBLISH
 CALSCALE:GREGORIAN
 X-MICROSOFT-CALSCALE:GREGORIAN
 X-WR-CALNAME:2026 世界杯 ⭐ 法英巴阿葡
-X-WR-CALDESC:2026 FIFA World Cup · 关注队(法/英/巴/阿/葡)加⭐高亮 · 比分与淘汰赛对阵自动更新 · 数据源 fixtur.es
+X-WR-CALDESC:2026 FIFA World Cup · 关注队(法/英/巴/阿/葡)加⭐高亮 · 中文 · 比分与淘汰赛对阵自动更新 · 数据源 fixtur.es
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:mOFqJ6RQXjVW3JFAOVldmhQMb8qJTv1bsHa8VPVA@maak-agenda.nl
@@ -15,7 +15,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260611T204500Z
 LOCATION:Estadio Banorte
-SUMMARY:Mexico - South Africa (2-0)
+SUMMARY:墨西哥 - 南非 (2-0)
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -32,7 +32,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260612T034500Z
 LOCATION:Estadio Akron
-SUMMARY:South Korea - Czech Republic (2-1)
+SUMMARY:韩国 - 捷克 (2-1)
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -49,7 +49,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260612T204500Z
 LOCATION:BMO Field
-SUMMARY:Canada - Bosnia and Herzegovina
+SUMMARY:加拿大 - 波黑
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -66,7 +66,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260613T204500Z
 LOCATION:Levi's
-SUMMARY:Qatar - Switzerland
+SUMMARY:卡塔尔 - 瑞士
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -83,7 +83,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260613T234500Z
 LOCATION:MetLife
-SUMMARY:⭐ Brazil - Morocco
+SUMMARY:⭐ 巴西 - 摩洛哥
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -100,7 +100,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260613T024500Z
 LOCATION:SoFi
-SUMMARY:United States - Paraguay
+SUMMARY:美国 - 巴拉圭
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -117,7 +117,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260614T054500Z
 LOCATION:BC Place
-SUMMARY:Australia - Türkiye
+SUMMARY:澳大利亚 - 土耳其
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -134,7 +134,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260614T024500Z
 LOCATION:Gillette
-SUMMARY:Haiti - Scotland
+SUMMARY:海地 - 苏格兰
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -151,7 +151,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260614T184500Z
 LOCATION:NRG
-SUMMARY:Germany - Curaçao
+SUMMARY:德国 - 库拉索
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -168,7 +168,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260614T214500Z
 LOCATION:AT&T
-SUMMARY:Netherlands - Japan
+SUMMARY:荷兰 - 日本
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -185,7 +185,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260615T004500Z
 LOCATION:Lincoln Financial Field
-SUMMARY:Ivory Coast - Ecuador
+SUMMARY:科特迪瓦 - 厄瓜多尔
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -202,7 +202,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260615T034500Z
 LOCATION:Estadio BBVA
-SUMMARY:Sweden - Tunisia
+SUMMARY:瑞典 - 突尼斯
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -219,7 +219,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260615T204500Z
 LOCATION:Lumen Field
-SUMMARY:Belgium - Egypt
+SUMMARY:比利时 - 埃及
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -236,7 +236,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260615T174500Z
 LOCATION:Mercedes-Benz
-SUMMARY:Spain - Cape Verde
+SUMMARY:西班牙 - 佛得角
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -253,7 +253,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260615T234500Z
 LOCATION:Hard Rock
-SUMMARY:Saudi Arabia - Uruguay
+SUMMARY:沙特 - 乌拉圭
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -270,7 +270,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260616T024500Z
 LOCATION:SoFi
-SUMMARY:Iran - New Zealand
+SUMMARY:伊朗 - 新西兰
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -287,7 +287,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260616T204500Z
 LOCATION:MetLife
-SUMMARY:⭐ France - Senegal
+SUMMARY:⭐ 法国 - 塞内加尔
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -304,7 +304,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260616T234500Z
 LOCATION:Gillette
-SUMMARY:Iraq - Norway
+SUMMARY:伊拉克 - 挪威
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -321,7 +321,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260617T024500Z
 LOCATION:GEHA Field at Arrowhead
-SUMMARY:⭐ Argentina - Algeria
+SUMMARY:⭐ 阿根廷 - 阿尔及利亚
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -338,7 +338,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260617T054500Z
 LOCATION:Levi's
-SUMMARY:Austria - Jordan
+SUMMARY:奥地利 - 约旦
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -355,7 +355,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260617T184500Z
 LOCATION:NRG
-SUMMARY:⭐ Portugal - DR Congo
+SUMMARY:⭐ 葡萄牙 - 刚果(金)
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -372,7 +372,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260617T214500Z
 LOCATION:AT&T
-SUMMARY:⭐ England - Croatia
+SUMMARY:⭐ 英格兰 - 克罗地亚
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -389,7 +389,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260618T174500Z
 LOCATION:Mercedes-Benz
-SUMMARY:Czech Republic - South Africa
+SUMMARY:捷克 - 南非
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -406,7 +406,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260618T204500Z
 LOCATION:SoFi
-SUMMARY:Switzerland - Bosnia and Herzegovina
+SUMMARY:瑞士 - 波黑
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -423,7 +423,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260618T234500Z
 LOCATION:BC Place
-SUMMARY:Canada - Qatar
+SUMMARY:加拿大 - 卡塔尔
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -440,7 +440,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260618T034500Z
 LOCATION:Estadio Banorte
-SUMMARY:Uzbekistan - Colombia
+SUMMARY:乌兹别克斯坦 - 哥伦比亚
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -457,7 +457,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260618T004500Z
 LOCATION:BMO Field
-SUMMARY:Ghana - Panama
+SUMMARY:加纳 - 巴拿马
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -474,7 +474,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260619T024500Z
 LOCATION:Estadio Akron
-SUMMARY:Mexico - South Korea
+SUMMARY:墨西哥 - 韩国
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -491,7 +491,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260619T234500Z
 LOCATION:Gillette
-SUMMARY:Scotland - Morocco
+SUMMARY:苏格兰 - 摩洛哥
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -508,7 +508,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260619T204500Z
 LOCATION:Lumen Field
-SUMMARY:United States - Australia
+SUMMARY:美国 - 澳大利亚
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -525,7 +525,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260620T021500Z
 LOCATION:Lincoln Financial Field
-SUMMARY:⭐ Brazil - Haiti
+SUMMARY:⭐ 巴西 - 海地
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -542,7 +542,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260620T044500Z
 LOCATION:Levi's
-SUMMARY:Türkiye - Paraguay
+SUMMARY:土耳其 - 巴拉圭
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -559,7 +559,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260620T214500Z
 LOCATION:BMO Field
-SUMMARY:Germany - Ivory Coast
+SUMMARY:德国 - 科特迪瓦
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -576,7 +576,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260620T184500Z
 LOCATION:NRG
-SUMMARY:Netherlands - Sweden
+SUMMARY:荷兰 - 瑞典
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -593,7 +593,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260621T014500Z
 LOCATION:GEHA Field at Arrowhead
-SUMMARY:Ecuador - Curaçao
+SUMMARY:厄瓜多尔 - 库拉索
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -610,7 +610,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260621T054500Z
 LOCATION:Estadio BBVA
-SUMMARY:Tunisia - Japan
+SUMMARY:突尼斯 - 日本
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -627,7 +627,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260621T204500Z
 LOCATION:SoFi
-SUMMARY:Belgium - Iran
+SUMMARY:比利时 - 伊朗
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -644,7 +644,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260621T174500Z
 LOCATION:Mercedes-Benz
-SUMMARY:Spain - Saudi Arabia
+SUMMARY:西班牙 - 沙特
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -661,7 +661,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260621T234500Z
 LOCATION:Hard Rock
-SUMMARY:Uruguay - Cape Verde
+SUMMARY:乌拉圭 - 佛得角
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -678,7 +678,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260622T024500Z
 LOCATION:BC Place
-SUMMARY:New Zealand - Egypt
+SUMMARY:新西兰 - 埃及
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -695,7 +695,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260622T224500Z
 LOCATION:Lincoln Financial Field
-SUMMARY:⭐ France - Iraq
+SUMMARY:⭐ 法国 - 伊拉克
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -712,7 +712,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260622T184500Z
 LOCATION:AT&T
-SUMMARY:⭐ Argentina - Austria
+SUMMARY:⭐ 阿根廷 - 奥地利
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -729,7 +729,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260623T014500Z
 LOCATION:MetLife
-SUMMARY:Norway - Senegal
+SUMMARY:挪威 - 塞内加尔
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -746,7 +746,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260623T044500Z
 LOCATION:Levi's
-SUMMARY:Jordan - Algeria
+SUMMARY:约旦 - 阿尔及利亚
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -763,7 +763,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260623T184500Z
 LOCATION:NRG
-SUMMARY:⭐ Portugal - Uzbekistan
+SUMMARY:⭐ 葡萄牙 - 乌兹别克斯坦
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -780,7 +780,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260623T214500Z
 LOCATION:Gillette
-SUMMARY:⭐ England - Ghana
+SUMMARY:⭐ 英格兰 - 加纳
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -797,7 +797,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260624T204500Z
 LOCATION:BC Place
-SUMMARY:Switzerland - Canada
+SUMMARY:瑞士 - 加拿大
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -814,7 +814,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260624T204500Z
 LOCATION:Lumen Field
-SUMMARY:Bosnia and Herzegovina - Qatar
+SUMMARY:波黑 - 卡塔尔
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -831,7 +831,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260624T234500Z
 LOCATION:Mercedes-Benz
-SUMMARY:Morocco - Haiti
+SUMMARY:摩洛哥 - 海地
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -848,7 +848,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260624T234500Z
 LOCATION:Hard Rock
-SUMMARY:⭐ Scotland - Brazil
+SUMMARY:⭐ 苏格兰 - 巴西
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -865,7 +865,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260624T034500Z
 LOCATION:Estadio Akron
-SUMMARY:Colombia - DR Congo
+SUMMARY:哥伦比亚 - 刚果(金)
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -882,7 +882,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260624T004500Z
 LOCATION:BMO Field
-SUMMARY:Panama - Croatia
+SUMMARY:巴拿马 - 克罗地亚
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -899,7 +899,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260625T024500Z
 LOCATION:Estadio BBVA
-SUMMARY:South Africa - South Korea
+SUMMARY:南非 - 韩国
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -916,7 +916,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260625T024500Z
 LOCATION:Estadio Banorte
-SUMMARY:Czech Republic - Mexico
+SUMMARY:捷克 - 墨西哥
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -933,7 +933,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260625T214500Z
 LOCATION:Lincoln Financial Field
-SUMMARY:Curaçao - Ivory Coast
+SUMMARY:库拉索 - 科特迪瓦
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -950,7 +950,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260625T214500Z
 LOCATION:MetLife
-SUMMARY:Ecuador - Germany
+SUMMARY:厄瓜多尔 - 德国
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -967,7 +967,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260626T034500Z
 LOCATION:Levi's
-SUMMARY:Paraguay - Australia
+SUMMARY:巴拉圭 - 澳大利亚
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -984,7 +984,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260626T034500Z
 LOCATION:SoFi
-SUMMARY:Türkiye - United States
+SUMMARY:土耳其 - 美国
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -1001,7 +1001,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260626T004500Z
 LOCATION:AT&T
-SUMMARY:Japan - Sweden
+SUMMARY:日本 - 瑞典
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -1018,7 +1018,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260626T004500Z
 LOCATION:GEHA Field at Arrowhead
-SUMMARY:Tunisia - Netherlands
+SUMMARY:突尼斯 - 荷兰
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -1035,7 +1035,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260626T204500Z
 LOCATION:Gillette
-SUMMARY:⭐ Norway - France
+SUMMARY:⭐ 挪威 - 法国
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -1052,7 +1052,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260626T204500Z
 LOCATION:BMO Field
-SUMMARY:Senegal - Iraq
+SUMMARY:塞内加尔 - 伊拉克
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -1069,7 +1069,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260627T044500Z
 LOCATION:Lumen Field
-SUMMARY:Egypt - Iran
+SUMMARY:埃及 - 伊朗
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -1086,7 +1086,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260627T044500Z
 LOCATION:BC Place
-SUMMARY:New Zealand - Belgium
+SUMMARY:新西兰 - 比利时
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -1103,7 +1103,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260627T014500Z
 LOCATION:NRG
-SUMMARY:Cape Verde - Saudi Arabia
+SUMMARY:佛得角 - 沙特
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -1120,7 +1120,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260627T014500Z
 LOCATION:Estadio Akron
-SUMMARY:Uruguay - Spain
+SUMMARY:乌拉圭 - 西班牙
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -1137,7 +1137,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260627T224500Z
 LOCATION:Lincoln Financial Field
-SUMMARY:Croatia - Ghana
+SUMMARY:克罗地亚 - 加纳
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -1154,7 +1154,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260627T224500Z
 LOCATION:MetLife
-SUMMARY:⭐ Panama - England
+SUMMARY:⭐ 巴拿马 - 英格兰
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -1171,7 +1171,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260628T034500Z
 LOCATION:GEHA Field at Arrowhead
-SUMMARY:Algeria - Austria
+SUMMARY:阿尔及利亚 - 奥地利
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -1188,7 +1188,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260628T034500Z
 LOCATION:AT&T
-SUMMARY:⭐ Jordan - Argentina
+SUMMARY:⭐ 约旦 - 阿根廷
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -1205,7 +1205,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260628T011500Z
 LOCATION:Hard Rock
-SUMMARY:⭐ Colombia - Portugal
+SUMMARY:⭐ 哥伦比亚 - 葡萄牙
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -1222,7 +1222,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260628T011500Z
 LOCATION:Mercedes-Benz
-SUMMARY:DR Congo - Uzbekistan
+SUMMARY:刚果(金) - 乌兹别克斯坦
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -1239,7 +1239,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260628T204500Z
 LOCATION:SoFi
-SUMMARY:Round of 32: 2A vs 2B
+SUMMARY:32强 · A组第2 vs B组第2
 CLASS:PUBLIC
 DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
  fixtures
@@ -1255,7 +1255,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260629T184500Z
 LOCATION:NRG
-SUMMARY:Round of 32: 1C vs 2F
+SUMMARY:32强 · C组第1 vs F组第2
 CLASS:PUBLIC
 DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
  fixtures
@@ -1271,7 +1271,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260629T221500Z
 LOCATION:Gillette
-SUMMARY:Round of 32: 1E vs 3rd A/B/C/D/F
+SUMMARY:32强 · E组第1 vs A/B/C/D/F组第3
 CLASS:PUBLIC
 DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
  fixtures
@@ -1287,7 +1287,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260630T024500Z
 LOCATION:Estadio BBVA
-SUMMARY:Round of 32: 1F vs 2C
+SUMMARY:32强 · F组第1 vs C组第2
 CLASS:PUBLIC
 DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
  fixtures
@@ -1303,7 +1303,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260630T184500Z
 LOCATION:AT&T
-SUMMARY:Round of 32: 2E vs 2I
+SUMMARY:32强 · E组第2 vs I组第2
 CLASS:PUBLIC
 DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
  fixtures
@@ -1319,7 +1319,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260630T224500Z
 LOCATION:MetLife
-SUMMARY:Round of 32: 1I vs 3rd C/D/F/G/H
+SUMMARY:32强 · I组第1 vs C/D/F/G/H组第3
 CLASS:PUBLIC
 DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
  fixtures
@@ -1335,7 +1335,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260701T024500Z
 LOCATION:Estadio Banorte
-SUMMARY:Round of 32: 1A vs 3rd C/E/F/H/I
+SUMMARY:32强 · A组第1 vs C/E/F/H/I组第3
 CLASS:PUBLIC
 DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
  fixtures
@@ -1351,7 +1351,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260701T174500Z
 LOCATION:Mercedes-Benz
-SUMMARY:Round of 32: 1L vs 3rd E/H/I/J/K
+SUMMARY:32强 · L组第1 vs E/H/I/J/K组第3
 CLASS:PUBLIC
 DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
  fixtures
@@ -1367,7 +1367,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260701T214500Z
 LOCATION:Lumen Field
-SUMMARY:Round of 32: 1G vs 3rd A/E/H/I/J
+SUMMARY:32强 · G组第1 vs A/E/H/I/J组第3
 CLASS:PUBLIC
 DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
  fixtures
@@ -1383,7 +1383,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260702T014500Z
 LOCATION:Levi's
-SUMMARY:Round of 32: 1D vs 3rd B/E/F/I/J
+SUMMARY:32强 · D组第1 vs B/E/F/I/J组第3
 CLASS:PUBLIC
 DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
  fixtures
@@ -1399,7 +1399,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260702T204500Z
 LOCATION:SoFi
-SUMMARY:Round of 32: 1H vs 2J
+SUMMARY:32强 · H组第1 vs J组第2
 CLASS:PUBLIC
 DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
  fixtures
@@ -1415,7 +1415,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260703T004500Z
 LOCATION:BMO Field
-SUMMARY:Round of 32: 2K vs 2L
+SUMMARY:32强 · K组第2 vs L组第2
 CLASS:PUBLIC
 DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
  fixtures
@@ -1431,7 +1431,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260703T044500Z
 LOCATION:BC Place
-SUMMARY:Round of 32: 1B vs 3rd E/F/G/I/J
+SUMMARY:32强 · B组第1 vs E/F/G/I/J组第3
 CLASS:PUBLIC
 DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
  fixtures
@@ -1447,7 +1447,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260703T194500Z
 LOCATION:AT&T
-SUMMARY:Round of 32: 2D vs 2G
+SUMMARY:32强 · D组第2 vs G组第2
 CLASS:PUBLIC
 DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
  fixtures
@@ -1463,7 +1463,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260703T234500Z
 LOCATION:Hard Rock
-SUMMARY:Round of 32: 1J vs 2H
+SUMMARY:32强 · J组第1 vs H组第2
 CLASS:PUBLIC
 DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
  fixtures
@@ -1479,7 +1479,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260704T031500Z
 LOCATION:GEHA Field at Arrowhead
-SUMMARY:Round of 32: 1K vs 3rd D/E/I/J/L
+SUMMARY:32强 · K组第1 vs D/E/I/J/L组第3
 CLASS:PUBLIC
 DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
  fixtures
@@ -1495,7 +1495,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260704T184500Z
 LOCATION:NRG
-SUMMARY:Round of 16: W1 vs W3
+SUMMARY:16强 · 胜者1 vs 胜者3
 CLASS:PUBLIC
 DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
  fixtures
@@ -1511,7 +1511,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260704T224500Z
 LOCATION:Lincoln Financial Field
-SUMMARY:Round of 16: W2 vs W5
+SUMMARY:16强 · 胜者2 vs 胜者5
 CLASS:PUBLIC
 DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
  fixtures
@@ -1527,7 +1527,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260705T214500Z
 LOCATION:MetLife
-SUMMARY:Round of 16: W4 vs W6
+SUMMARY:16强 · 胜者4 vs 胜者6
 CLASS:PUBLIC
 DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
  fixtures
@@ -1543,7 +1543,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260706T014500Z
 LOCATION:Estadio Banorte
-SUMMARY:Round of 16: W7 vs W8
+SUMMARY:16强 · 胜者7 vs 胜者8
 CLASS:PUBLIC
 DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
  fixtures
@@ -1559,7 +1559,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260706T204500Z
 LOCATION:AT&T
-SUMMARY:Round of 16: W11 vs W12
+SUMMARY:16强 · 胜者11 vs 胜者12
 CLASS:PUBLIC
 DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
  fixtures
@@ -1575,7 +1575,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260707T014500Z
 LOCATION:Lumen Field
-SUMMARY:Round of 16: W9 vs W10
+SUMMARY:16强 · 胜者9 vs 胜者10
 CLASS:PUBLIC
 DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
  fixtures
@@ -1591,7 +1591,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260707T174500Z
 LOCATION:Mercedes-Benz
-SUMMARY:Round of 16: W14 vs W16
+SUMMARY:16强 · 胜者14 vs 胜者16
 CLASS:PUBLIC
 DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
  fixtures
@@ -1607,7 +1607,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260707T214500Z
 LOCATION:BC Place
-SUMMARY:Round of 16: W13 vs W15
+SUMMARY:16强 · 胜者13 vs 胜者15
 CLASS:PUBLIC
 DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
  fixtures
@@ -1623,7 +1623,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260709T214500Z
 LOCATION:Gillette
-SUMMARY:Quarter-final: W1 vs W2
+SUMMARY:1/4决赛 · 胜者1 vs 胜者2
 CLASS:PUBLIC
 DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
  fixtures
@@ -1639,7 +1639,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260710T204500Z
 LOCATION:SoFi
-SUMMARY:Quarter-final: W5 vs W6
+SUMMARY:1/4决赛 · 胜者5 vs 胜者6
 CLASS:PUBLIC
 DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
  fixtures
@@ -1655,7 +1655,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260711T224500Z
 LOCATION:Hard Rock
-SUMMARY:Quarter-final: W3 vs W4
+SUMMARY:1/4决赛 · 胜者3 vs 胜者4
 CLASS:PUBLIC
 DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
  fixtures
@@ -1671,7 +1671,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260712T024500Z
 LOCATION:GEHA Field at Arrowhead
-SUMMARY:Quarter-final: W7 vs W8
+SUMMARY:1/4决赛 · 胜者7 vs 胜者8
 CLASS:PUBLIC
 DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
  fixtures
@@ -1687,7 +1687,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260714T204500Z
 LOCATION:AT&T
-SUMMARY:Semi-final: W1 vs W2
+SUMMARY:半决赛 · 胜者1 vs 胜者2
 CLASS:PUBLIC
 DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
  fixtures
@@ -1703,7 +1703,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260715T204500Z
 LOCATION:Mercedes-Benz
-SUMMARY:Semi-final: W3 vs W4
+SUMMARY:半决赛 · 胜者3 vs 胜者4
 CLASS:PUBLIC
 DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
  fixtures
@@ -1719,7 +1719,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260718T224500Z
 LOCATION:Hard Rock
-SUMMARY:World Cup 3rd place match
+SUMMARY:🥉 三四名决赛
 CLASS:PUBLIC
 DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
  fixtures
@@ -1735,7 +1735,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260719T204500Z
 LOCATION:MetLife
-SUMMARY:World Cup Final
+SUMMARY:🏆 决赛
 CLASS:PUBLIC
 DESCRIPTION:Support Fixtur.es via Buy Me a Coffee https://buymeacoffee.com/
  fixtures
