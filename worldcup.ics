@@ -5,7 +5,7 @@ METHOD:PUBLISH
 CALSCALE:GREGORIAN
 X-MICROSOFT-CALSCALE:GREGORIAN
 X-WR-CALNAME:2026 世界杯 ⭐ 法英巴阿葡
-X-WR-CALDESC:2026 FIFA World Cup · 关注队(法/英/巴/阿/葡)加⭐高亮 · 中文 · 比分与淘汰赛对阵自动更新 · 数据源 fixtur.es
+X-WR-CALDESC:2026 FIFA World Cup · 关注队加⭐ · 中文 · 比分(football-data)+淘汰赛对阵自动更新 · 赛程源 fixtur.es
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:mOFqJ6RQXjVW3JFAOVldmhQMb8qJTv1bsHa8VPVA@maak-agenda.nl
@@ -49,7 +49,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260612T204500Z
 LOCATION:BMO Field
-SUMMARY:加拿大 - 波黑
+SUMMARY:加拿大 - 波黑 (1-1)
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -66,7 +66,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260613T204500Z
 LOCATION:Levi's
-SUMMARY:卡塔尔 - 瑞士
+SUMMARY:卡塔尔 - 瑞士 (1-1)
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -83,7 +83,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260613T234500Z
 LOCATION:MetLife
-SUMMARY:⭐ 巴西 - 摩洛哥
+SUMMARY:⭐ 巴西 - 摩洛哥 (1-1)
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -100,7 +100,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260613T024500Z
 LOCATION:SoFi
-SUMMARY:美国 - 巴拉圭
+SUMMARY:美国 - 巴拉圭 (4-1)
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -117,7 +117,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260614T054500Z
 LOCATION:BC Place
-SUMMARY:澳大利亚 - 土耳其
+SUMMARY:澳大利亚 - 土耳其 (2-0)
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -134,7 +134,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260614T024500Z
 LOCATION:Gillette
-SUMMARY:海地 - 苏格兰
+SUMMARY:海地 - 苏格兰 (0-1)
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -151,7 +151,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260614T184500Z
 LOCATION:NRG
-SUMMARY:德国 - 库拉索
+SUMMARY:德国 - 库拉索 (7-1)
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http
@@ -168,7 +168,7 @@ TRANSP:OPAQUE
 STATUS:CONFIRMED
 DTEND:20260614T214500Z
 LOCATION:AT&T
-SUMMARY:荷兰 - 日本
+SUMMARY:荷兰 - 日本 (2-2)
 CLASS:PUBLIC
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date?pat
  h=league/fifa-world-cup-2026\n\nSupport Fixtur.es via Buy Me a Coffee http

@@ -1,19 +1,25 @@
 #!/usr/bin/env node
 // 2026 世界杯日历构建脚本
-// 拉取 fixtur.es 的世界杯 .ics（赛程+比分+淘汰赛占位），
-// 队名/轮次翻译为中文，关注队（法/英/巴/阿/葡）的比赛标题加 ⭐ 前缀，输出 worldcup.ics。
-// 在 GitHub Actions runner 上定时运行（直连 fixtur.es，无需代理）。
+// 赛程骨架/淘汰赛占位/时区来自 fixtur.es；比分优先用 football-data（更及时，fixtur.es 比分常滞后）。
+// 队名/轮次翻译中文，关注队（法/英/巴/阿/葡）标题加 ⭐。输出 worldcup.ics。
+// GitHub Actions 定时运行；football-data token 从环境变量 FOOTBALL_DATA_TOKEN 读（GitHub Secret，不入库）。
 
 import { writeFileSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 
 const SOURCE = "https://ics.fixtur.es/v2/league/fifa-world-cup-2026.ics";
-// 关注球队（fixtur.es 使用的英文队名，匹配在翻译前进行）。
-// 淘汰赛对阵确定后 fixtur.es 会填真名，届时自动命中加 ⭐。
+const FD_API = "https://api.football-data.org/v4/competitions/WC/matches";
 const FAV = ["France", "England", "Brazil", "Argentina", "Portugal"];
 const STAR = "⭐ ";
 const CAL_NAME = "2026 世界杯 ⭐ 法英巴阿葡";
-const CAL_DESC = "2026 FIFA World Cup · 关注队(法/英/巴/阿/葡)加⭐高亮 · 中文 · 比分与淘汰赛对阵自动更新 · 数据源 fixtur.es";
+const CAL_DESC = "2026 FIFA World Cup · 关注队加⭐ · 中文 · 比分(football-data)+淘汰赛对阵自动更新 · 赛程源 fixtur.es";
+
+// football-data 队名 → fixtur.es 队名（仅 5 个拼写不同，其余一致）
+const FD_NORM = {
+  "Turkey": "Türkiye", "Czechia": "Czech Republic", "Congo DR": "DR Congo",
+  "Cape Verde Islands": "Cape Verde", "Bosnia-Herzegovina": "Bosnia and Herzegovina",
+};
+const normFD = (name) => FD_NORM[name] || name;
 
 // 48 强中文队名
 const TEAM = {
@@ -29,32 +35,56 @@ const TEAM = {
   "South Korea": "韩国", "Spain": "西班牙", "Sweden": "瑞典", "Switzerland": "瑞士", "Tunisia": "突尼斯",
   "Türkiye": "土耳其", "United States": "美国", "Uruguay": "乌拉圭", "Uzbekistan": "乌兹别克斯坦",
 };
-// 按长度降序替换，避免短名误伤长名
 const TEAM_KEYS = Object.keys(TEAM).sort((a, b) => b.length - a.length);
 
-// 把一条英文 SUMMARY 标题翻译为中文（队名、轮次、占位符）
+// 从 football-data 响应建比分索引：key=排序后的队名对，value={home,away,fh,fa}
+export function buildScoreIndex(fbJson) {
+  const idx = new Map();
+  for (const m of fbJson.matches || []) {
+    const h = m.homeTeam && m.homeTeam.name, a = m.awayTeam && m.awayTeam.name;
+    if (!h || !a) continue;
+    const ft = m.score && m.score.fullTime;
+    if (!ft || ft.home == null || ft.away == null) continue;   // 无比分跳过
+    const H = normFD(h), A = normFD(a);
+    idx.set([H, A].sort().join("|"), { home: H, away: A, fh: ft.home, fa: ft.away });
+  }
+  return idx;
+}
+
+// 用 football-data 比分覆盖/补充一条英文 SUMMARY（仅真实队名对，淘汰赛占位跳过）
+function applyScore(summary, idx) {
+  if (!idx || summary.includes(":") || summary.includes(" vs ")) return summary;
+  const bare = summary.replace(/\s*\(\d+-\d+\)\s*$/, "");
+  const parts = bare.split(" - ");
+  if (parts.length !== 2) return summary;
+  const a = parts[0].trim(), b = parts[1].trim();
+  const e = idx.get([a, b].sort().join("|"));
+  if (!e) return summary;
+  const score = a === e.home ? `${e.fh}-${e.fa}` : `${e.fa}-${e.fh}`;
+  return `${a} - ${b} (${score})`;
+}
+
 function toCN(title) {
   let t = title;
   t = t.replace("World Cup Final", "🏆 决赛").replace("World Cup 3rd place match", "🥉 三四名决赛");
   t = t.replace("Round of 32:", "32强 ·").replace("Round of 16:", "16强 ·")
        .replace("Quarter-final:", "1/4决赛 ·").replace("Semi-final:", "半决赛 ·");
   for (const en of TEAM_KEYS) if (t.includes(en)) t = t.split(en).join(TEAM[en]);
-  // 占位符：3rd C/E/F → C/E/F组第3；1A/2F → A组第1/F组第2；W14 → 胜者14
   t = t.replace(/3rd ([A-L/]+)/g, (m, g) => g + "组第3");
   t = t.replace(/\b([12])([A-L])\b/g, (m, n, g) => g + "组第" + n);
   t = t.replace(/\bW(\d+)\b/g, "胜者$1");
   return t;
 }
 
-// 纯函数：输入原始 .ics 文本，输出 { ics, starred, events }
-export function transform(src) {
+// 纯函数：原始 fixtur.es .ics + 可选 football-data 比分索引 → { ics, starred, events }
+export function transform(src, scoreIdx = null) {
   const lines = src.split(/\r?\n/);
   const out = [];
   let starred = 0;
   for (let line of lines) {
     if (line.startsWith("SUMMARY:")) {
-      const raw = line.slice("SUMMARY:".length);
-      const fav = FAV.some((t) => raw.includes(t));   // 用英文原名匹配关注队
+      let raw = applyScore(line.slice("SUMMARY:".length), scoreIdx);
+      const fav = FAV.some((t) => raw.includes(t));
       let title = toCN(raw);
       if (fav) { title = STAR + title; starred++; }
       line = "SUMMARY:" + title;
@@ -71,16 +101,30 @@ export function transform(src) {
 }
 
 async function main() {
-  const res = await fetch(SOURCE, { headers: { "User-Agent": "worldcup-cal-builder" } });
-  if (!res.ok) {
-    console.error("fetch fixtur.es failed:", res.status);
-    process.exit(1);
+  const icsRes = await fetch(SOURCE, { headers: { "User-Agent": "worldcup-cal-builder" } });
+  if (!icsRes.ok) { console.error("fetch fixtur.es failed:", icsRes.status); process.exit(1); }
+
+  // 可选：football-data 比分（有 token 才拉，本地无 token 时仅用 fixtur.es）
+  let scoreIdx = null;
+  const token = process.env.FOOTBALL_DATA_TOKEN;
+  if (token) {
+    try {
+      const r = await fetch(FD_API, { headers: { "X-Auth-Token": token } });
+      if (r.ok) {
+        scoreIdx = buildScoreIndex(await r.json());
+        console.log(`football-data: ${scoreIdx.size} 场比分`);
+      } else {
+        console.error("football-data HTTP", r.status, "— 仅用 fixtur.es 比分");
+      }
+    } catch (e) {
+      console.error("football-data fetch 失败，仅用 fixtur.es 比分:", e.message);
+    }
+  } else {
+    console.log("无 FOOTBALL_DATA_TOKEN，仅用 fixtur.es 比分");
   }
-  const { ics, starred, events } = transform(await res.text());
-  if (events < 100) {
-    console.error("sanity check failed: only", events, "events");
-    process.exit(1);
-  }
+
+  const { ics, starred, events } = transform(await icsRes.text(), scoreIdx);
+  if (events < 100) { console.error("sanity check failed: only", events, "events"); process.exit(1); }
   writeFileSync("worldcup.ics", ics, "utf8");
   console.log(`OK: wrote worldcup.ics — ${events} events, ${starred} starred`);
 }

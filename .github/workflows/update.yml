@@ -23,6 +23,8 @@ jobs:
         with:
           node-version: "20"
       - name: 生成 worldcup.ics
+        env:
+          FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
         run: node build.mjs
       - name: 有变更则提交
         run: |
